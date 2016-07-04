@@ -1,6 +1,6 @@
 {
   "name": "TourOfHeros",
-  "version": "1.0.0
+  "version": "1.0.0",
   "description": "Angular2 Tour of heros with angular2-quickstart basis",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
